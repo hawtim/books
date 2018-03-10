@@ -4,12 +4,13 @@
 
 ## HTTP
 
-1. 图解HTTP（黑白印刷
+1. 图解HTTP（黑白印刷）
 
 ## javascript
 
 1. JavaScript高级程序设计（第3版）（电子版）
 2. 你不知道的JavaScript（上卷）
+3. 你不知道的JavaScript（中卷）
 
 ## 其他及软技能
 
